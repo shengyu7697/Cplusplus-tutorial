@@ -5,7 +5,7 @@ CXXFLAGS = -O0 -g -std=c++11 # for Debug
 #CXXFLAGS = -W -Wall -O3 -std=c++11 # for Release
 LDFLAGS =
 RM = rm -rf
-HEADERS = $(wildcard src/*.h)
+HEADERS = $(wildcard *.h)
 SRCS = $(wildcard *.cpp)
 OBJS = $(SRCS:.cpp=.o)
 
