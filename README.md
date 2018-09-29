@@ -4,9 +4,10 @@ C++ 實戰範例教學, 與 STL 的應用.
 ## 學習列表
 | 列表           | 範例 | 備註
 | ------------- |:-------------|------
-|STL vector | TBD |
-|STL map | [Code](https://github.com/shengyu7697/learn-cplusplus/tree/master/map) |
+|STL vector | [Code](https://github.com/shengyu7697/learn-cplusplus/tree/master/vector) |
+|STL queue | [Code](https://github.com/shengyu7697/learn-cplusplus/tree/master/queue) |
 |STL deque | [Code](https://github.com/shengyu7697/learn-cplusplus/tree/master/deque) |
+|STL map | [Code](https://github.com/shengyu7697/learn-cplusplus/tree/master/map) |
 |STL set | TBD |
 |STL stack | TBD |
 |std::transform | TBD | 大小寫轉換
