@@ -3,8 +3,7 @@
 
 using namespace std;
  
-int main()
-{
+int main() {
     // Create a deque containing integers
     deque<int> d = {7, 5, 16, 8};
  
@@ -13,7 +12,7 @@ int main()
     d.push_back(25);
  
     // Iterate and print values of deque
-    for(int n : d) {
+    for (int n : d) {
         cout << n << '\n';
     }
 }
