@@ -4,8 +4,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
     // declare container and iterator
     map<int, string> mapStudent;
     map<int, string>::iterator iter;
